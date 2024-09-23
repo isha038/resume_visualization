@@ -11,7 +11,6 @@ This project analyzes a dataset of job applications, applicants, and job titles 
 ## Features
 - **Data Cleaning**: The project cleans and prepares the dataset, removing duplicates and ensuring data consistency.
 - **Data Visualization**: Various visualizations are generated using `matplotlib` and `folium`, providing a detailed overview of applicant experience, job popularity, geographic concentration, and citizenship demographics.
-- **Entity-Relationship Diagram (ERD)**: The project includes an ERD showing relationships between applicants, job titles, and applications.
 
 
 The system is modeled as three main entities:
